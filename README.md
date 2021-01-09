@@ -1,2 +1,2 @@
 # real-world-jest
-Real world jest examples to get you started with jest
+Real world examples to get you started with jest
